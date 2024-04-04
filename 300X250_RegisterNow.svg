@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 93.51 28.77">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #345975;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Montserrat-Medium, Montserrat;
+        font-size: 8.18px;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-1" width="93.51" height="28.77"/>
+      <text class="cls-2" transform="translate(13.29 18.84)"><tspan x="0" y="0">REGISTER NOW</tspan></text>
+    </g>
+  </g>
+</svg>
